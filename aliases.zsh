@@ -1,0 +1,8 @@
+alias gs='git status'
+alias gl='git log'
+alias load='source ~/.zshrc'
+alias switch='git checkout'
+alias x='exit'
+alias phone='cd ~/Library/Android/Sdk/tools && ./emulator -avd Nexus_5X_API_24'
+alias phones='~/Library/Android/sdk/tools/emulator -list-avds'
+alias dqs='bash --login "/Applications/Docker/Docker Quickstart Terminal.app/Contents/Resources/Scripts/start.sh"'
