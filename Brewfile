@@ -97,8 +97,6 @@ brew "tree"
 brew "vim"
 # Internet file retriever
 brew "wget"
-# JavaScript package manager
-brew "yarn"
 # Download YouTube videos from the command-line
 brew "youtube-dl"
 # Azure Functions Core Tools 3.0
@@ -142,8 +140,6 @@ cask "firefox"
 cask "fontbase"
 # Desktop client for GitHub repositories
 cask "github"
-# Go (golang) IDE
-cask "goland"
 # Utility to fix grammar errors and style issues in text
 cask "grammarly"
 cask "graphql-playground"
@@ -155,11 +151,7 @@ cask "iterm2"
 cask "journey"
 # Visual user interface for Docker Container management
 cask "kitematic"
-cask "leanote"
-cask "manuscripts"
 cask "mongodb-compass"
-cask "moonitor"
-cask "mtmr"
 # Visual tool to design, develop and administer MySQL servers
 cask "mysqlworkbench"
 # Reverse proxy, secure introspectable tunnels to localhost
@@ -189,7 +181,6 @@ cask "sourcetree"
 cask "spectacle"
 # Music streaming service
 cask "spotify"
-cask "station"
 # Native GUI tool for relational databases
 cask "tableplus"
 # Messaging app with a focus on speed and security
@@ -213,5 +204,3 @@ cask "visual-studio-code"
 cask "vlc"
 # Video communication and virtual meeting platform
 cask "zoom"
-# Temporary makeshift alias for the video communication tool Zoom
-cask "zoomus"
