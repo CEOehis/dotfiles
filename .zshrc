@@ -143,7 +143,7 @@ export AWS_SHARED_CREDENTIALS_FILE=~/.aws/credentials
 export PATH="$HOME/Library/Python/2.7/bin:$PATH"
 
 # Private enviromenv variables needed for my daily work
-source ~/.work_config.sh
+[[ ! -f ~/.work_config.zsh ]] || source ~/.work_config.zsh
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
 __conda_setup="$(${HOME}/anaconda3/bin/conda 'shell.zsh' 'hook' 2> /dev/null)"
